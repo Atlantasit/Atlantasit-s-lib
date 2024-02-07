@@ -8,24 +8,31 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/atlantasit/.nuget/packages/": {}
+    "C:\\Users\\Leonard\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/atlantasit/Documents/Daten/Github/Atlantasit's lib/Atlantasit's lib.csproj",
+      "projectUniqueName": "D:\\Daten\\Github\\Atlantasit-s-lib\\Atlantasit's lib.csproj",
       "projectName": "Atlantasit's lib",
-      "projectPath": "/home/atlantasit/Documents/Daten/Github/Atlantasit's lib/Atlantasit's lib.csproj",
-      "packagesPath": "/home/atlantasit/.nuget/packages/",
-      "outputPath": "/home/atlantasit/Documents/Daten/Github/Atlantasit's lib/obj/",
+      "projectPath": "D:\\Daten\\Github\\Atlantasit-s-lib\\Atlantasit's lib.csproj",
+      "packagesPath": "C:\\Users\\Leonard\\.nuget\\packages\\",
+      "outputPath": "D:\\Daten\\Github\\Atlantasit-s-lib\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/home/atlantasit/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Leonard\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -54,12 +61,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.15, 7.0.15]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[7.0.15, 7.0.15]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.15, 7.0.15]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.15, 7.0.15]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.115/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

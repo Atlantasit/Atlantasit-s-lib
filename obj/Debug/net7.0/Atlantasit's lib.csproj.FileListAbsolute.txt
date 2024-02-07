@@ -1,0 +1,15 @@
+D:\Daten\Github\Atlantasit-s-lib\bin\Debug\net7.0\Atlantasit's lib.exe
+D:\Daten\Github\Atlantasit-s-lib\bin\Debug\net7.0\Atlantasit's lib.deps.json
+D:\Daten\Github\Atlantasit-s-lib\bin\Debug\net7.0\Atlantasit's lib.runtimeconfig.json
+D:\Daten\Github\Atlantasit-s-lib\bin\Debug\net7.0\Atlantasit's lib.dll
+D:\Daten\Github\Atlantasit-s-lib\bin\Debug\net7.0\Atlantasit's lib.pdb
+D:\Daten\Github\Atlantasit-s-lib\obj\Debug\net7.0\Atlantasit's lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Daten\Github\Atlantasit-s-lib\obj\Debug\net7.0\Atlantasit's lib.AssemblyInfoInputs.cache
+D:\Daten\Github\Atlantasit-s-lib\obj\Debug\net7.0\Atlantasit's lib.AssemblyInfo.cs
+D:\Daten\Github\Atlantasit-s-lib\obj\Debug\net7.0\Atlantasit's lib.csproj.CoreCompileInputs.cache
+D:\Daten\Github\Atlantasit-s-lib\obj\Debug\net7.0\Atlantasit's lib.sourcelink.json
+D:\Daten\Github\Atlantasit-s-lib\obj\Debug\net7.0\Atlantasit's lib.dll
+D:\Daten\Github\Atlantasit-s-lib\obj\Debug\net7.0\refint\Atlantasit's lib.dll
+D:\Daten\Github\Atlantasit-s-lib\obj\Debug\net7.0\Atlantasit's lib.pdb
+D:\Daten\Github\Atlantasit-s-lib\obj\Debug\net7.0\Atlantasit's lib.genruntimeconfig.cache
+D:\Daten\Github\Atlantasit-s-lib\obj\Debug\net7.0\ref\Atlantasit's lib.dll

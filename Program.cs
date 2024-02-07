@@ -1,12 +1,19 @@
-﻿
+﻿using System;
+using System.IO;
+
+
 namespace AT_lib{
 
     class Execution_testing{
         
-        public static void Main(){
-            key_reader key = new key_reader();
+        public static void Main(string[] args){
+            log_output log = new log_output();
 
-            key.read_key();
+            log.write_nextLine("hi");
+            log.write_nextLine("dis is a log");
+
+            Console.ReadKey();
+
         }
     }
-}
+}         

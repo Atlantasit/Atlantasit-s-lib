@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "3BRvmxcjAN4RCnMhPopGqG8zo/34wy5MdK4ksr3gm8HMGQRkm6fOjGx/O08aq8EbGMGiI6UU+3U7VkbV65Aqtg==",
+  "dgSpecHash": "J4BTC1iGPsjoi8faocSOJQHa6q/y5HuufmRZGzqdBfLt+6dgZVY/Sxq+2W2TnVF1teNDtKyswMNXIs6ea5UZSg==",
   "success": true,
-  "projectFilePath": "/home/atlantasit/Documents/Daten/Github/Atlantasit's lib/Atlantasit's lib.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Daten\\Github\\Atlantasit-s-lib\\Atlantasit's lib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leonard\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Leonard\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Leonard\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Leonard\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
   "logs": []
 }
